@@ -7,7 +7,7 @@ Ne morate nužno raditi novi FluidSystem već možete koristiti
 `Dumux::FluidSystems::Brine`.  
 
 Simulirati sustav prvih 100 godina i nakon 100 godina iscrtati brzinu 
-pomoću strelica, strujnice i zasićenje sloju u png formatu. 
+pomoću strelica, strujnice i zasićenje solju u png formatu. 
 To sve možete napraviti u programu Paraview.
 
 Program formirati kopiranjem i modificiranjem programa *salt1*. _Problem_ i _SpatialParams_ klase 
